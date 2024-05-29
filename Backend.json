@@ -33,7 +33,7 @@
     "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_143_FlintlockWinter"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_028_Athena_Commando_F"],
+    "price": 500
   }
 }
