@@ -1,4 +1,4 @@
-CID_683_Athena_Commando_F_TigerFashion, 1500
+CID_028_Athena_Commando_F, 550
 CID_648_Athena_Commando_F_MsAlpine, 1500
 Pickaxe_ID_143_FlintlockWinter, 1200
 na
